@@ -1,5 +1,5 @@
 # Telebot
-A telegram bot using python
+A baby yoda level telegram bot using python. This is solely created only to understand how telegram bots work
 
 Requirements:
 ```
